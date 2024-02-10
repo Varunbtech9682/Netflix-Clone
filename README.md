@@ -1,1 +1,1 @@
-![NetFlix Clone](images/preview.png
+![NetFlix Clone](images/preview.png)
