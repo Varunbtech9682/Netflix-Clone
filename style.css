@@ -20,9 +20,7 @@ body{
     background-position: center;
     padding: 10px 8%;
     position: relative;
-
 }
-
 
 nav{
     padding: 10px 0px;
@@ -47,8 +45,8 @@ nav button{
     border-radius: 5%;
     margin-left: 8px;
     cursor: pointer;
-
 }
+
 
 .language-btn{
     display: inline-flex;
@@ -59,10 +57,12 @@ nav button{
     padding: 7px 10px;
 }
 
+
 .language-btn img{
     width: 10px;
     height: 7px;
 }
+
 
 .header-content{
     position: absolute;
@@ -73,12 +73,14 @@ nav button{
     margin-top: 100px;
 }
 
+
 .header-content h1{
     font-size: 60px;
     line-height: 70px;
     font-weight: 600;
     max-width: 650px;
 }
+
 
 .header-content h3{
     font-size: 15px;
@@ -87,12 +89,14 @@ nav button{
     max-width: 650px;
 }
 
+
 .header-content h5{
     margin-top: 10px;
     font-weight: 10;
     max-width: 650px;
     color: #ffffff99;
 }
+
 
 .email-signup{
     background: #fff;
@@ -104,8 +108,8 @@ nav button{
     justify-content: center;
     max-width: 500px;
     margin: 20px auto;
-
 }
+
 
 .email-signup input{
     flex: 1;
@@ -338,3 +342,5 @@ input[type="radio"]{
         font-size: 22px;
     }
 }
+
+
